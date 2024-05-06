@@ -1,0 +1,4 @@
+El cerrar de los modales de las acciones de CRUDDALS deberían de ser controladas por el page, ya que si se presenta un error, no debería de cerrarse
+Tener un estándar de nombramiento de las pages, en "definePageMeta.name", para de esta manera toda la navegación pueda ser escalable, sin importar si cambia la estructura de la carpeta "pages", o si cambia el nombre del archivo
+Crear mesas masivamente
+Poner un proxy para no exponer el endPoint

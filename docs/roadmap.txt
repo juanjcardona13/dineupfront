@@ -1,0 +1,10 @@
+https://vee-validate.logaretm.com/v4/tutorials/dynamic-form-generator/
+https://formvuelate.js.org/
+
+1. Hay que dejar fuertemente tipado el componente CRUDDALS
+2. dar la opcion de personalizar el QR
+
+Módulos:
+1. Contable
+2. Inventario 
+3. Administración de empelados (salario, etc)

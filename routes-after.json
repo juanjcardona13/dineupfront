@@ -1,0 +1,54 @@
+[
+    {
+      "path": "/",
+      "name": "Inicio"
+    },
+    {
+      "path": "/restaurants",
+      "name": "Lista de restaurantes"
+    },
+    {
+      "path": "/restaurants/[id]",
+      "name": "Detalle de restaurante"
+    },
+    {
+      "path": "/restaurants/[id]/social-media",
+      "name": "Lista de las redes sociales del restaurante"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches",
+      "name": "Lista de sucursales de restaurante"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches/[branch_id]",
+      "name": "Detalle de sucursal de restaurante"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches/[branch_id]/orders",
+      "name": "Lista de pedidos de la sucursal"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches/[branch_id]/orders/[order_id]",
+      "name": "Detalle de pedido de la sucursal"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches/[branch_id]/menu",
+      "name": "Lista de los menús de la sucursal"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches/[branch_id]/menu/[menu_id]",
+      "name": "Detalle de un menú de la sucursal"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches/[branch_id]/tables",
+      "name": "Lista de las mesas de la sucursal"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches/[branch_id]/tables/[table_id]",
+      "name": "Detalle de una mesa de la sucursal"
+    },
+    {
+      "path": "/restaurants/[restaurant_id]/branches/[branch_id]/schedule",
+      "name": "Horario de la sucursal"
+    }
+  ]

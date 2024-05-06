@@ -1,0 +1,50 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --dotenv .env.local",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@apollo/client": "3.7.12",
+    "@fortawesome/fontawesome-free": "6.4.0",
+    "@fortawesome/fontawesome-svg-core": "6.4.0",
+    "@fortawesome/free-solid-svg-icons": "6.4.0",
+    "@fortawesome/vue-fontawesome": "3.0.3",
+    "@pinia/nuxt": "0.4.9",
+    "@playlyfe/gql": "2.6.2",
+    "@vee-validate/nuxt": "4.8.6",
+    "@vee-validate/rules": "4.8.6",
+    "@vue/apollo-option": "4.0.0-beta.4",
+    "apollo-upload-client": "17.0.0",
+    "axios": "1.4.0",
+    "bootstrap": "5.3.0-alpha2",
+    "graphql": "16.6.0",
+    "graphql-tag": "2.12.6",
+    "js-base64": "3.7.5",
+    "pinia": "2.0.35",
+    "vue": "3.2.45",
+    "vue-axios": "3.5.2",
+    "vue-final-modal": "4.3.1",
+    "vue-good-table-next": "0.2.1",
+    "vue-router": "4.1.6",
+    "vue-select": "4.0.0-beta.6",
+    "vue-sweetalert2": "5.0.5",
+    "vue3-perfect-scrollbar": "1.6.1"
+  },
+  "devDependencies": {
+    "@graphql-codegen/cli": "3.3.1",
+    "@graphql-codegen/typescript": "3.0.4",
+    "@graphql-codegen/typescript-operations": "3.0.4",
+    "@nuxtjs/i18n": "8.0.0-beta.11",
+    "@types/node": "18",
+    "@vitejs/plugin-vue": "3.2.0",
+    "nuxt": "3.4.1",
+    "sass": "1.60.0",
+    "sass-loader": "13.2.2",
+    "vite": "3.2.4"
+  }
+}

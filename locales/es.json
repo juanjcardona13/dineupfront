@@ -1,0 +1,9 @@
+{
+  "welcome": "Bienvenido {0}!",
+  "HowToNameIt": "La carpeta principal es abreviado el nombre y se siguen separando las sub carpetas por - hasta llegar al archivo, el archivo se separa con __ y luego se sigue separando por -",
+  "c-restaurant-restaurant__cu-add-branch": "Agregar sucursal",
+  "c-generics__modal-confirmation": "Confirmar",
+  "cancelar": "Cancelar",
+  "c-Restaurant__createUpdate-titleInfo": "Información",
+  "c-Restaurant__createUpdate-titleInfoAdditional": "Información Adicional"
+}

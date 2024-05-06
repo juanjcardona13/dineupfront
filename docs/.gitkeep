@@ -1,0 +1,4 @@
+git add . && aicommits && git push && git checkout dev && git status && git pull && git merge juan && git push && git checkout juan && git merge dev && git push
+git add . && git commit -m "First flow complete" && git push && git checkout dev && git status && git pull && git merge juan && git push && git checkout juan && git merge dev && git push
+
+git add . && aicommits && git push && git checkout dev && git status && git pull && git merge mayra && git push && git checkout mayra && git merge dev && git push

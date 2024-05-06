@@ -1,0 +1,29 @@
+name: Nombre del componente para facilitar la depuración y las herramientas de desarrollo.
+components: Componentes locales que se utilizan en el componente actual.
+props: Propiedades que se pasan al componente desde el componente padre.
+data: Datos locales del componente que se utilizan en el componente y son reactivos.
+computed: Propiedades calculadas basadas en otros datos y que se vuelven a calcular automáticamente cuando cambian las dependencias.
+methods: Funciones y métodos que se utilizan en el componente y no son reactivos.
+watch: Observadores que se activan cuando cambian los datos que están observando.
+provide: Valores o funciones que se proporcionan a los componentes descendientes a través de la inyección de dependencias.
+inject: Valores o funciones que se inyectan desde un componente ascendiente mediante la inyección de dependencias.
+mixins: Objetos que contienen opciones de componente y se mezclan con el componente actual.
+extends: Un objeto o una función que devuelve un objeto que contiene opciones de componente y se extiende al componente actual.
+created: Un hook de ciclo de vida que se ejecuta después de que se crea una instancia de componente y se establece la reactividad.
+beforeMount: Un hook de ciclo de vida que se ejecuta antes de que el componente se monte en el DOM.
+mounted: Un hook de ciclo de vida que se ejecuta después de que el componente se monta en el DOM.
+beforeUpdate: Un hook de ciclo de vida que se ejecuta antes de que se actualice el componente y se vuelva a renderizar.
+updated: Un hook de ciclo de vida que se ejecuta después de que se actualiza el componente y se vuelve a renderizar.
+activated: Un hook de ciclo de vida que se ejecuta cuando se activa un componente mantenido por un elemento <keep-alive>.
+deactivated: Un hook de ciclo de vida que se ejecuta cuando se desactiva un componente mantenido por un elemento <keep-alive>.
+beforeUnmount: Un hook de ciclo de vida que se ejecuta antes de que se desmonte el componente del DOM.
+unmounted: Un hook de ciclo de vida que se ejecuta después de que se desmonta el componente del DOM.
+
+
+inheritAttrs
+emits
+setup
+render
+template
+errorCaptured
+expose
