@@ -31,7 +31,7 @@ export default defineNuxtPlugin((nuxtApp) => {
   const { apiBaseUrl } = config.public
 
   const apolloClient = buildApolloClient({
-    uri: `${apiBaseUrl}/api-dine-up/`
+    uri: `${apiBaseUrl}/api/`
   })
   
   const apolloProvider = createApolloProvider({
