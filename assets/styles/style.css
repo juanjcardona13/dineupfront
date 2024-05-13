@@ -3633,11 +3633,11 @@ fieldset:disabled a.btn {
     background: rgba(0, 0, 0, 0.8);
 }
 
-.owl-carousel .owl-item {
+/* .owl-carousel .owl-item {
     position: relative;
     cursor: url(../plugins/owl-carousel/cursor.png), move;
     overflow: hidden;
-}
+} */
 
 .owl-nav {
     display: block;
@@ -68505,7 +68505,7 @@ a.text-dark:focus {
     height: 152%;
     top: 0px;
     overflow: hidden;
-    background-image: url(../landing/images/bg4.png);
+    /* background-image: url(../landing/images/bg4.png); */
 }
 
 .landing-top-header .top {
@@ -68711,19 +68711,19 @@ a.text-dark:focus {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: url(../landing/images/10.jpg) no-repeat;
+    background: url(../img/media/10.jpg) no-repeat;
     background-size: cover;
     transition: all 0.3s ease-in-out 0s;
     border: 4px solid #e8e8f7;
 }
 
 .landing-page .owl-controls .owl-page:nth-child(2) {
-    background: url(../landing/images/16.jpg) no-repeat;
+    background: url(../img/media/16.jpg) no-repeat;
     background-size: cover;
 }
 
 .landing-page .owl-controls .owl-page:nth-child(3) {
-    background: url(../landing/images/21.jpg) no-repeat;
+    background: url(../img/media/22.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -68886,7 +68886,7 @@ a.text-dark:focus {
 }
 
 .landing-page .bg-image-landing {
-    background-image: url(../landing/images/bg4.png);
+    /* background-image: url(../landing/images/bg4.png); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -68907,7 +68907,7 @@ a.text-dark:focus {
     width: 35%;
     height: 80%;
     top: 0px;
-    background-image: url(../landing/images/bg.png);
+    /* background-image: url(../landing/images/bg.png); */
 }
 
 .landing-page .landing-statistics .card-body,
@@ -69704,7 +69704,7 @@ a.text-dark:focus {
 }
 
 .bg-image-style {
-    background-image: url(../landing/images/bg3.png);
+    /* background-image: url(../landing/images/bg3.png); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -69914,7 +69914,7 @@ a.text-dark:focus {
     color: #ffffff;
     position: relative;
     border-radius: 0px;
-    background: url(../landing/images/bg2.jpg) center center;
+    /* background: url(../landing/images/bg2.jpg) center center; */
     padding: 50px 0;
 }
 
