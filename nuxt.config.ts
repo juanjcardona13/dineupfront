@@ -49,7 +49,7 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      apiBaseUrl: "http://100.27.193.0"
+      apiBaseUrl: "https://backend.dineup.com.co"
     }
   }
 });
